@@ -1,0 +1,43 @@
+01:19:39 [INFO] 🔍 Detecting Ollama models…
+01:19:39 [INFO]    Models: moondream:latest, llava:latest, llama3.2:latest
+01:19:39 [INFO]    Selected: llava:latest
+01:19:46 [INFO] 
+╔══════════════════════════════════════════════════╗
+║         Ollama Vision — Optimized                ║
+╠══════════════════════════════════════════════════╣
+║  Model     : llava:latest                       ║
+║  Web UI    : http://localhost:5000              ║
+║  AI image  : 768px wide, enhanced, sharpest-frame  ║
+║  Camera    : 1280x720 MJPG target                ║
+║  Streaming : tokens appear live                  ║
+║  Interval  : 0.5s min (continuous analysis)       ║
+╠══════════════════════════════════════════════════╣
+║  Logs      : /home/ali-ayyad/Downloads/NOETIC/vision_logs/session_20260304_011939║
+║  Stats API : http://localhost:5000/stats             ║
+║  Press Ctrl+C to stop                             ║
+╚══════════════════════════════════════════════════╝
+
+01:20:19 [DEBUG] Analysis #1: 31764ms, 85 tokens, Δ=0.1%, CPU=32.9%, MEM=11323.4MB
+01:21:01 [DEBUG] Analysis #2: 41378ms, 111 tokens, Δ=0.6%, CPU=59.4%, MEM=11256.5MB
+01:21:52 [DEBUG] Analysis #3: 51066ms, 106 tokens, Δ=3.3%, CPU=65.8%, MEM=11173.7MB
+01:22:34 [DEBUG] Analysis #4: 40960ms, 86 tokens, Δ=0.1%, CPU=67.1%, MEM=11203.4MB
+01:23:30 [DEBUG] Analysis #5: 55575ms, 130 tokens, Δ=1.4%, CPU=69.1%, MEM=11283.7MB
+01:24:25 [DEBUG] Analysis #6: 54992ms, 135 tokens, Δ=8.6%, CPU=72.3%, MEM=11248.6MB
+01:25:19 [DEBUG] Analysis #7: 53155ms, 139 tokens, Δ=0.1%, CPU=71.2%, MEM=11298.7MB
+01:26:12 [DEBUG] Analysis #8: 52539ms, 129 tokens, Δ=0.2%, CPU=67.0%, MEM=11225.7MB
+01:27:02 [DEBUG] Analysis #9: 49717ms, 115 tokens, Δ=0.1%, CPU=67.2%, MEM=11225.9MB
+01:27:48 [DEBUG] Analysis #10: 45495ms, 106 tokens, Δ=0.0%, CPU=64.5%, MEM=11293.5MB
+01:28:35 [DEBUG] Analysis #11: 45674ms, 110 tokens, Δ=0.0%, CPU=66.9%, MEM=11329.0MB
+01:29:20 [DEBUG] Analysis #12: 44934ms, 104 tokens, Δ=0.2%, CPU=71.4%, MEM=11470.6MB
+01:30:08 [DEBUG] Analysis #13: 47922ms, 126 tokens, Δ=0.1%, CPU=69.7%, MEM=11417.7MB
+01:30:56 [DEBUG] Analysis #14: 47575ms, 116 tokens, Δ=0.0%, CPU=74.8%, MEM=11467.0MB
+01:31:46 [DEBUG] Analysis #15: 48727ms, 150 tokens, Δ=0.0%, CPU=68.5%, MEM=11425.6MB
+01:32:31 [DEBUG] Analysis #16: 44459ms, 108 tokens, Δ=4.4%, CPU=70.2%, MEM=11440.7MB
+01:33:18 [DEBUG] Analysis #17: 47076ms, 141 tokens, Δ=0.0%, CPU=73.8%, MEM=11429.5MB
+01:34:10 [DEBUG] Analysis #18: 51565ms, 158 tokens, Δ=0.0%, CPU=67.8%, MEM=11385.1MB
+01:34:47 [DEBUG] Analysis #19: 36116ms, 142 tokens, Δ=0.5%, CPU=64.9%, MEM=11634.4MB
+01:35:09 [DEBUG] Analysis #20: 21271ms, 105 tokens, Δ=0.0%, CPU=59.6%, MEM=11598.4MB
+01:35:31 [DEBUG] Analysis #21: 22229ms, 112 tokens, Δ=0.1%, CPU=58.5%, MEM=11585.4MB
+01:35:53 [INFO] 
+01:35:53 [INFO] 📊 Session summary saved → /home/ali-ayyad/Downloads/NOETIC/vision_logs/session_20260304_011939/session_summary.json
+01:35:53 [INFO] 👋 Stopped.

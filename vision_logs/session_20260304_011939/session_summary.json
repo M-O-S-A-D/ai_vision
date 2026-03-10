@@ -1,0 +1,214 @@
+{
+  "session_id": "20260304_011939",
+  "started_at": "2026-03-04T01:19:39.532273",
+  "duration_s": 973.5,
+  "model": "llava:latest",
+  "camera_info": "1280x720 @ 30fps [MJPG]",
+  "total_frames": 7466,
+  "total_analyses": 21,
+  "ai_image_width": 768,
+  "ai_quality": 95,
+  "config": {
+    "prompt": "What is in this image? Describe the scene accurately.",
+    "interval": 0.5,
+    "scene_thresh": 5.0
+  },
+  "performance": {
+    "avg_inference_ms": 44485.2,
+    "min_inference_ms": 21271,
+    "max_inference_ms": 55575,
+    "median_inference_ms": 47076,
+    "analyses_per_min": 1.3
+  },
+  "history": [
+    {
+      "time": "01:35:31",
+      "description": "The image shows a person sitting in front of a camera, wearing a white headscarf and a black outfit. The individual appears to be indoors, with a blurred background that includes what looks like a domestic setting with a couch and a wall. The person is looking directly at the camera, and there is a watermark or overlay on the image that reads \"SEND TO A FRIEND.\" The style of the image suggests it may have been taken with a smartphone camera, given the quality and angle of the shot.",
+      "change_pct": 0.1,
+      "ms": 22229,
+      "tokens": 112,
+      "cpu_pct": 58.5,
+      "mem_mb": 11585.4
+    },
+    {
+      "time": "01:35:09",
+      "description": "The image shows a person sitting indoors, wearing a white headscarf and a black shirt. The individual appears to be looking downwards, with their head slightly tilted. The person is holding a white cloth or garment in their hands. The background is blurred but suggests an indoor setting with a door and a piece of furniture, possibly a couch or chair, visible. The image is taken from a low angle, which is common for selfies. There is no text present in the image.",
+      "change_pct": 0.0,
+      "ms": 21271,
+      "tokens": 105,
+      "cpu_pct": 59.6,
+      "mem_mb": 11598.4
+    },
+    {
+      "time": "01:34:47",
+      "description": "The image shows a close-up of a door with a series of vertical slats, which is a common design for glass doors in many buildings. The door is closed and appears to be made of glass with a dark tint, which is typical for privacy or security. The background is blurred, but it seems to be an indoor setting with a window or glass panel to the right of the door, which is partially visible. The image is taken from a low angle, looking up at the door, and the focus is on the door itself, making the background indistinct. There are no visible texts or distinctive features that provide additional context about the location or the purpose of the door.",
+      "change_pct": 0.5,
+      "ms": 36116,
+      "tokens": 142,
+      "cpu_pct": 64.9,
+      "mem_mb": 11634.4
+    },
+    {
+      "time": "01:34:10",
+      "description": "The image shows a close-up view of a door with a glass window, which is partially obscured by a metal grate. The door is part of a larger structure, possibly a building, as suggested by the presence of a wall and a floor in the background. The door has a series of vertical bars or slats, which could be part of a security system or a decorative feature. The image is taken from a low angle, looking up at the door, and the focus is on the door itself, with the background being out of focus. There are no visible texts or distinctive markings that provide additional context or information about the location or the purpose of the door. The style of the image is a standard photograph with no apparent filters or artistic manipulations.",
+      "change_pct": 0.0,
+      "ms": 51565,
+      "tokens": 158,
+      "cpu_pct": 67.8,
+      "mem_mb": 11385.1
+    },
+    {
+      "time": "01:33:18",
+      "description": "The image appears to be a low-resolution photograph or a screenshot from a video, showing an interior space that looks like a room with a dark, possibly yellowish, wall. There is a vertical slit in the wall, which could be a window or a door, and a small, dark object that might be a chair or a piece of furniture is visible through the slit. The room has a simple, unadorned appearance, and there is a glimpse of a person's leg and foot in the bottom right corner, suggesting the presence of someone in the room. The image is taken from a low angle, looking up towards the slit in the wall.",
+      "change_pct": 0.0,
+      "ms": 47076,
+      "tokens": 141,
+      "cpu_pct": 73.8,
+      "mem_mb": 11429.5
+    },
+    {
+      "time": "01:32:31",
+      "description": "The image appears to be a low-resolution photograph of a scene that is not entirely clear due to the quality of the image. It shows a blurry view of what seems to be a road or path with a line of objects or possibly a fence running along the side. The objects are indistinct, and the focus is not sharp, making it difficult to discern specific details. The image has a pixelated quality, suggesting it may have been taken with a low-quality camera or is of a low resolution.",
+      "change_pct": 4.4,
+      "ms": 44459,
+      "tokens": 108,
+      "cpu_pct": 70.2,
+      "mem_mb": 11440.7
+    },
+    {
+      "time": "01:31:46",
+      "description": "The image appears to be a low-resolution photograph or a screenshot of a video frame showing a scene with a focus on a vertical object that resembles a long, narrow, and possibly metallic structure. The object is positioned in the center of the image and is partially obscured by a darker, blurred background. The background is indistinct, but it seems to be an outdoor setting with a dark sky or a dark surface. The image is taken from a low angle, looking up towards the object, which is oriented vertically. The lighting in the image is dim, and the overall quality of the image is poor, making it difficult to discern specific details about the object or the surrounding environment.",
+      "change_pct": 0.0,
+      "ms": 48727,
+      "tokens": 150,
+      "cpu_pct": 68.5,
+      "mem_mb": 11425.6
+    },
+    {
+      "time": "01:30:56",
+      "description": "The image shows a person standing in front of a microphone, seemingly speaking or performing. The individual is wearing a headscarf and appears to be gesturing with their hands. The background is blurred, but it looks like an indoor setting with a dark wall and what might be a staircase or a railing. The person is the main focus of the image, and the lighting is directed towards them, highlighting their face and upper body. The image has a candid, informal quality to it, possibly taken during a live event or a casual gathering.",
+      "change_pct": 0.0,
+      "ms": 47575,
+      "tokens": 116,
+      "cpu_pct": 74.8,
+      "mem_mb": 11467.0
+    },
+    {
+      "time": "01:30:08",
+      "description": "The image shows a person sitting in front of a wall with a patterned design. The individual is wearing a white headscarf and a black top. They are looking directly at the camera with a slight smile. The person's arms are crossed, and they are leaning slightly forward. The background is blurred, but it appears to be an indoor setting with a darker area behind the person. There are no visible texts or distinctive markings that provide additional context about the location or the person. The style of the image is a standard photograph, and it seems to be taken in a casual, candid manner.",
+      "change_pct": 0.1,
+      "ms": 47922,
+      "tokens": 126,
+      "cpu_pct": 69.7,
+      "mem_mb": 11417.7
+    },
+    {
+      "time": "01:29:20",
+      "description": "The image appears to be a still from a video, possibly a movie or a television show, featuring a man in a traditional Middle Eastern outfit, which includes a keffiyeh and agal. He is standing in front of a backdrop that has a patterned design, possibly a wall or a set piece. The man is looking to the side with a serious expression. The image is low resolution and the quality is not very clear. There are no visible texts or distinctive brands in the image.",
+      "change_pct": 0.2,
+      "ms": 44934,
+      "tokens": 104,
+      "cpu_pct": 71.4,
+      "mem_mb": 11470.6
+    },
+    {
+      "time": "01:28:35",
+      "description": "The image is a low-resolution photograph of a person sitting in front of a screen. The person appears to be a man with a beard, wearing a black outfit and a white headscarf. He is looking directly at the camera with a neutral expression. The background is blurred but suggests an indoor setting with a patterned wall and what appears to be a window or door with vertical blinds. The image has a pixelated quality, indicating it may have been taken with a low-quality camera or is of low resolution.",
+      "change_pct": 0.0,
+      "ms": 45674,
+      "tokens": 110,
+      "cpu_pct": 66.9,
+      "mem_mb": 11329.0
+    },
+    {
+      "time": "01:27:48",
+      "description": "The image is a photograph of a person standing in front of a door with a vertical slat pattern. The individual appears to be wearing a dark-colored outfit and a white headscarf. The person is looking slightly to the side, and the expression on their face is neutral. The background is indistinct, but it seems to be an interior space with a wooden door and a patterned wall. The image has a grainy quality, suggesting it may be of low resolution or taken in low light conditions.",
+      "change_pct": 0.0,
+      "ms": 45495,
+      "tokens": 106,
+      "cpu_pct": 64.5,
+      "mem_mb": 11293.5
+    },
+    {
+      "time": "01:27:02",
+      "description": "The image appears to be a still from a video, showing a person standing in front of a wooden door with vertical slats. The individual is wearing a dark-colored outfit and has a beard. The person is looking to the side with a neutral expression. The background is dimly lit, with a warm tone, and there are vertical slats that could be part of a fence or a decorative element. The image is low resolution and has a grainy quality, which suggests it may be a screenshot from a video or a photograph with low quality.",
+      "change_pct": 0.1,
+      "ms": 49717,
+      "tokens": 115,
+      "cpu_pct": 67.2,
+      "mem_mb": 11225.9
+    },
+    {
+      "time": "01:26:12",
+      "description": "The image appears to be a still from a video, showing a person standing in a room with a door in the background. The individual is wearing a dark-colored outfit and a white headscarf. The room has a simple, utilitarian design with vertical slits on the wall, which could be part of a ventilation system or decorative elements. The lighting in the room is dim, and the person is looking slightly to the side, not directly at the camera. The image is of low resolution, and the quality is grainy, suggesting it may be from a low-quality camera or a video with low resolution.",
+      "change_pct": 0.2,
+      "ms": 52539,
+      "tokens": 129,
+      "cpu_pct": 67.0,
+      "mem_mb": 11225.7
+    },
+    {
+      "time": "01:25:19",
+      "description": "The image appears to be a still from a video, showing a person standing in front of a backdrop with a pattern that resembles a digital or pixelated display. The individual is wearing a dark top and is captured mid-motion, with their arms outstretched as if they are conducting or gesturing. The lighting in the image is dim, with a focus on the person, and the background is blurred, which suggests a shallow depth of field. There is no text visible in the image. The style of the image is reminiscent of a screenshot from a video, possibly from a surveillance camera or a video recording, given the quality and composition.",
+      "change_pct": 0.1,
+      "ms": 53155,
+      "tokens": 139,
+      "cpu_pct": 71.2,
+      "mem_mb": 11298.7
+    },
+    {
+      "time": "01:24:25",
+      "description": "The image is a photograph of a person standing in front of a building with a dark facade. The individual appears to be wearing a dark-colored outfit, possibly a traditional outfit, and is facing the camera with a slight smile. The person has short hair and is wearing a headscarf. The background is blurred, but it seems to be an urban setting with a structure that has vertical lines, possibly a part of a building or a fence. The lighting in the photograph is artificial, suggesting it may have been taken indoors or during the evening. There are no visible texts or distinctive marks that provide additional context about the location or the person.",
+      "change_pct": 8.6,
+      "ms": 54992,
+      "tokens": 135,
+      "cpu_pct": 72.3,
+      "mem_mb": 11248.6
+    },
+    {
+      "time": "01:23:30",
+      "description": "The image appears to be a still from a video, showing a person standing in front of a backdrop with a pattern that resembles a grid or a series of vertical lines. The person is wearing a dark-colored outfit and has a microphone attached to their ear, suggesting they might be a performer or a speaker. The individual is looking off to the side, and their expression is neutral. The lighting in the image is soft and diffused, with no harsh shadows, indicating an indoor setting with artificial lighting. The style of the image is candid and seems to capture a moment during a performance or a public speaking event.",
+      "change_pct": 1.4,
+      "ms": 55575,
+      "tokens": 130,
+      "cpu_pct": 69.1,
+      "mem_mb": 11283.7
+    },
+    {
+      "time": "01:22:34",
+      "description": "The image is a photograph of a person standing in front of a backdrop that appears to be a stage or a podium with a microphone. The individual is wearing a black outfit and has a beard. They are looking directly at the camera with a neutral expression. The background is out of focus, but it seems to be an indoor setting with a patterned wall. There is no text visible in the image.",
+      "change_pct": 0.1,
+      "ms": 40960,
+      "tokens": 86,
+      "cpu_pct": 67.1,
+      "mem_mb": 11203.4
+    },
+    {
+      "time": "01:21:52",
+      "description": "The image shows a person sitting in front of a wall with a patterned design. The individual is wearing a black outfit and a white headscarf, which is commonly associated with certain cultural or religious groups. The person is looking directly at the camera with a slight smile. The background is blurred, but it appears to be an indoor setting with a dark color scheme. There is no text visible in the image. The style of the image is a standard photograph with a focus on the person in the foreground.",
+      "change_pct": 3.3,
+      "ms": 51066,
+      "tokens": 106,
+      "cpu_pct": 65.8,
+      "mem_mb": 11173.7
+    },
+    {
+      "time": "01:21:01",
+      "description": "The image shows a person sitting down, holding a cup with a beverage in it, and covering their face with their hand. The individual is wearing a white shirt and appears to be indoors, as suggested by the interior design visible in the background. The person is also wearing a headscarf, which is a common attire in some cultures. The image has a pixelated quality, indicating it may have been taken with a low-resolution camera or is of a low resolution. There is no text visible in the image.",
+      "change_pct": 0.6,
+      "ms": 41378,
+      "tokens": 111,
+      "cpu_pct": 59.4,
+      "mem_mb": 11256.5
+    },
+    {
+      "time": "01:20:19",
+      "description": "The image shows a person sitting on a staircase, facing the camera. The individual appears to be wearing a white shirt and a headscarf, and is holding a phone in their hand. The background is blurred, but it seems to be an indoor setting with a door and a wall visible. The person is looking directly at the camera, and the image has a candid, informal quality to it.",
+      "change_pct": 0.1,
+      "ms": 31764,
+      "tokens": 85,
+      "cpu_pct": 32.9,
+      "mem_mb": 11323.4
+    }
+  ]
+}
